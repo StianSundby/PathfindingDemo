@@ -1,0 +1,9 @@
+C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.AssemblyReference.cache
+C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.Properties.Resources.resources
+C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.GenerateResource.cache
+C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.CoreCompileInputs.cache
+C:\prog\PathfindingDemo\PathfindingDemo\bin\Debug\PathfindingDemo.exe.config
+C:\prog\PathfindingDemo\PathfindingDemo\bin\Debug\PathfindingDemo.exe
+C:\prog\PathfindingDemo\PathfindingDemo\bin\Debug\PathfindingDemo.pdb
+C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.exe
+C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.pdb
