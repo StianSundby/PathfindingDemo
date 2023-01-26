@@ -7,3 +7,13 @@ C:\prog\PathfindingDemo\PathfindingDemo\bin\Debug\PathfindingDemo.exe
 C:\prog\PathfindingDemo\PathfindingDemo\bin\Debug\PathfindingDemo.pdb
 C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.exe
 C:\prog\PathfindingDemo\PathfindingDemo\obj\Debug\PathfindingDemo.pdb
+D:\Repos\PathfindingDemo\bin\Debug\PathfindingDemo.exe.config
+D:\Repos\PathfindingDemo\bin\Debug\PathfindingDemo.exe
+D:\Repos\PathfindingDemo\bin\Debug\PathfindingDemo.pdb
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.AssemblyReference.cache
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.SuggestedBindingRedirects.cache
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.Properties.Resources.resources
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.GenerateResource.cache
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.csproj.CoreCompileInputs.cache
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.exe
+D:\Repos\PathfindingDemo\obj\Debug\PathfindingDemo.pdb
